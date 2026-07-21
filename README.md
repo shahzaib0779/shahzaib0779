@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Shahzaib%20Ahmad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Building%20Cross-Platform%20Apps%20%26%20SaaS&descAlignY=55&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Shahzaib%20Ahmad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Building%20Cross-Platform%20Apps%20and%20SaaS&descAlignY=55&descSize=18&dummy=2" width="100%"/>
 </div>
 
 <div align="center">
